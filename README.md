@@ -1,6 +1,6 @@
 # App Gerador de Senha Alfanumerica
 
-<img src="https://github.com/Eliane-Santiago/AppWebCalcularIMC/blob/main/foto_principal.png"/>
+<img src="https://github.com/Eliane-Santiago/AppGerarSenhaAlfanumerica/blob/main/GeradorSenhaAlfanumericapng.png"/>
 
 
 Essa aplicação faz a geração automática de senha alfanumérica, é composta por 12 dígitos, que terão números (0, 1, 2, 3, 4, 5, 6, 7, 8, 9), caracteres especiais (()[]{}<>;:/?\|!.,@#$%&*_-+), letras do Alfabeto Maiusculo e Minusculo
