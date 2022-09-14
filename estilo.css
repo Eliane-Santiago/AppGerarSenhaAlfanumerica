@@ -1,0 +1,17 @@
+
+body{
+    background: #313131 url("img/fundo.jpg") no-repeat top fixed;
+	display: flex;
+	align-items: center;
+	
+}
+
+#principal-card{
+	margin-top: 150px;
+	width: 60vw;
+}
+
+h1{
+	color:  #474447;
+	font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
